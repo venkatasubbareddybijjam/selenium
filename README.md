@@ -3,7 +3,7 @@
 steps to run the python files:
 ------------------------------
 
-Note:These are python files so  that we have to run  "python filename.py"
+Note:These are python files so  that we have to run  "python <filename.py>"
 
 1.Facebook.py:
 ------------
