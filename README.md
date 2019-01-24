@@ -21,6 +21,6 @@ We have to give Chrome driver path<br />
 We have to give url:mail.google.com<br />
 Then it will ask email,we have to give email(xxxx@gmail.com)<br />
 And then we have to press next button<br />
-Then we have to give password(xxxxxx)<br />
+Then it will ask password,then we have to give password(xxxxxx)<br />
 And then we have to press next button<br />
 Finally mail account  will open<br />
