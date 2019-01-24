@@ -9,10 +9,14 @@ steps to run the python files:
 we have to take one VM
 from selenium we have to import webdriver and Keys
 we have to give Chrome driver path
+
+-run 
+what page it will open?
+
 we have to give email(xxxxxx@gmail.com)
 we have to give password(xxxxxxxxx)
 we have to give enter button
-then finally facebook will open
+then finally facebook account will open
 
 2.Gmail:
 --------
