@@ -24,3 +24,11 @@ And then we have to press next button<br />
 Then it will ask password,then we have to give password(xxxxxx)<br />
 And then we have to press next button<br />
 Finally mail account  will open<br />
+
+3.Google_search.py:
+------------------
+from selenium we have to import webdriver and Keys<br />
+We have to give Chrome driver path<br />
+We have to give url:www.google.com<br />
+Then search box will open,we have to type (xxxxxx)<br />
+And then we have to press search  button<br />
