@@ -6,9 +6,9 @@ steps to run the python files:
 
 1. facebook.py:
 --------------
-we have to take one VM
-from selenium we have to import webdriver and Keys
-we have to give Chrome driver path
+we have to take one VM <br />
+from selenium we have to import webdriver and Keys <br />
+we have to give Chrome driver path <br />
 
 -run 
 what page it will open?
