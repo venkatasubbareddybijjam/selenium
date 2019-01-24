@@ -30,7 +30,7 @@ Finally mail account  will open<br />
 from selenium we have to import webdriver and Keys<br />
 We have to give Chrome driver path<br />
 We have to give url:www.google.com<br />
-Then search box will open,we have to type (xxxxxx)<br />
+Then search box will open,we have to type something (xxxxxx)<br />
 And then we have to press search  button<br />
 
 
@@ -47,3 +47,8 @@ Then onward date we have to give(dd-mm-yyyy)<br />
 
 5.youtube.py:
 ------------
+from selenium we have to import webdriver and Keys<br />
+We have to give Chrome driver path<br />
+We have to give url:www.youtube.com<br />
+Then search box will open,we have to type something(xxxxxx)<br />
+And then we have to press search  button<br />
